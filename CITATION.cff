@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "Please cite the report in preferred-citation when referencing this publication."
+title: "The Evolution of Command-and-Control (C2) Traffic and NDR Blind Spots: Advanced Blue Team Tactics Against Shaped Timing Dynamics"
+authors:
+  - family-names: "Erarslan"
+    given-names: "Oğulcan"
+    alias: "ByGhost"
+    affiliation: "ByGhost Security"
+version: "1.0"
+date-released: "2026-10-04"
+doi: "10.5281/zenodo.23141650"
+url: "https://doi.org/10.5281/zenodo.23141650"
+repository-code: "https://github.com/ByGh00st/c2-timing-ndr-blindspots"
+license: "CC-BY-NC-ND-4.0"
+preferred-citation:
+  type: report
+  title: "The Evolution of Command-and-Control (C2) Traffic and NDR Blind Spots: Advanced Blue Team Tactics Against Shaped Timing Dynamics"
+  authors:
+    - family-names: "Erarslan"
+      given-names: "Oğulcan"
+      alias: "ByGhost"
+      affiliation: "ByGhost Security"
+  version: "1.0"
+  date-released: "2026-10-04"
+  year: 2026
+  doi: "10.5281/zenodo.23141650"
+  url: "https://doi.org/10.5281/zenodo.23141650"
+  institution:
+    name: "ByGhost Security"

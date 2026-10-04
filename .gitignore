@@ -1,0 +1,12 @@
+# Public publication allowlist: everything else stays local.
+/*
+!/.gitignore
+!/README.md
+!/README_TR.md
+!/CITATION.cff
+!/LICENSE.md
+!/CHANGELOG.md
+!/publications/
+/publications/*
+!/publications/ByGhost-C2-NDR-Technical-Report-EN-v1.0.pdf
+!/publications/ByGhost-C2-NDR-Technical-Report-TR-v1.0.pdf
